@@ -7,15 +7,6 @@
 # Created:     25-Feb-2025
 # Updated:     15-Mar-2025
 #-----------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
 # Enter the current temperature
 temperature = float(input("Enter the temperature in Celsius:"))
 # Conditional statements to provide advice
