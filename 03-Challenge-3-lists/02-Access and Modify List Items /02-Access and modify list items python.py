@@ -1,6 +1,6 @@
 # -----------------------------------------------------------------------------
 # Name:    Access and Modify List Items  (Access and Modify List Items.py)
-# Purpose:     To provide information about how Access and Modify List Items (if)
+# Purpose:     To provide information about how Access and Modify List Items  (if)
 #			   work in Python
 #
 # Author:      Faysal
